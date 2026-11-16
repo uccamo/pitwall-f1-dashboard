@@ -8,6 +8,8 @@
 ![No Dependencies](https://img.shields.io/badge/dependencies-none-success)
 ![Data: OpenF1](https://img.shields.io/badge/data-OpenF1%20API-FF5A5F)
 
+🔗 **Live demo:** https://uccamo.github.io/pitwall-f1-dashboard/
+
 ---
 
 ## 📌 Overview
@@ -67,7 +69,7 @@ cd pitwall-f1-dashboard
 
 Then open `index.html` in any modern browser. An internet connection is required to fetch data from OpenF1.
 
-**Optional:** enable **GitHub Pages** (Settings → Pages → Deploy from branch → `main`) to host it as a live demo.
+Or just use the hosted version on GitHub Pages: https://uccamo.github.io/pitwall-f1-dashboard/
 
 ---
 
